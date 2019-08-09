@@ -1,0 +1,39 @@
+<!Doctype Html>
+ <html>
+ <head></head>
+  <body>
+    <div id="header">
+      <h1>BIGGER FASTER STRONGER</h1>
+    </div>
+    <div id="nav">
+      <a href="home.html">HOME</a>
+      <a href="home.html">WORKOUTS</a>
+      <a href="home.html">VIDEOS</a>
+      <a href="home.html">NUTRITION</a>
+      <a href="home.html">SCORE</a>
+     </div>
+<br>
+<br>     
+    <div id="Main body">
+    <img src="url">
+    <img src="url">
+    <p>People workout for three reasons, to get bigger, to get stronger, and as a form of therapy.</p>
+    <br>
+    <img src="url">
+    <img src="url">
+    <p>Use this site to garner information and tools for you to workout safe and efficient.</p>
+    <br>
+    <p>Videos on lifts, can be found on on the video page, and specific workouts and weekly plans can be found on the workouts page.</p>
+    <br>
+    <p>Find out how strong you are by finding your score, on the Scores tab.  Finally Nutrition is 70% of fitness.</p>
+    <br>
+    <p>Macros are an important part of nutrition, find some generalized macros under the Nutrition tab.</p>
+    <br>
+    <p>Most importantly always listen and seek knowledge, because knowing is half the battle!</p>
+    <br>
+    <img src="url">
+    <br>
+    <div id="footer">
+    </div>
+    </body>
+   </html>
